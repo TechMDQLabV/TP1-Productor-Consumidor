@@ -1,8 +1,8 @@
 "# TP1-Productor - Consumidor" 
 
-- Para consumir el stock necesito tantos consumidores como stock. 
+- Para consumir el stock necesito que se consuma mas de lo que se produce. 
 
-- Los bloques deben ser syhnchronized para que los metodos esten sincronizados evitando asi la concurrencia.
+- Los bloques deben ser syhnchronized para que los metodos se ejecuten de a uno evitando asi la concurrencia.
 
 - la Clase BeerHouse es el recurso compartido por las Clases BeerProducer y BeerConsumer. Al tener los metodos synchonized evitamos que se ejecuten de a uno.
 
