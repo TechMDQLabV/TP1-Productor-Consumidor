@@ -6,7 +6,7 @@
 package productorconsumidor;
 
 /**
- *
+ * probando edit
  * @author TechMDQ
  */
 public class BeerHouse {
